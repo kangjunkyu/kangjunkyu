@@ -3,6 +3,19 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=%20속도보다는%20방향을%20보자&fontSize=30&animation=fadeIn&fontAlign=70)
 
+## 자기소개
+소통의 가치를 추구하는 개발자
+사람들과 의견을 나누고, 소통으로 함께 문제를 해결하며 나아가길 좋아합니다.
+도전을 좋아합니다. 새로운 환경과 기술에도 두려움 없이 적응합니다.
+
+### 공유하며 서로의 경험을 나누고, 함께하고 싶은 동료가 되고자 유연한 사고를 지닌 개발자를 목표로 두고 있습니다.
+
+- Web, Application, AI, Opensource 서비스의 Backend 설계, 개발, 운영 경험
+- AmazonWebServices(AWS)를 활용한 서비스 배포 및 사용자 유치 경험
+- 서비스 초기 기획부터 개발, 운영까지 참여한 프로젝트 경험
+
+&nbsp;
+
 ## **⚙️ 기술 스택**
 
 | | |
@@ -14,6 +27,20 @@
 | Tools | <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jirasoftware&logoColor=white"/> <img src="https://img.shields.io/badge/Mattermost-0058CC?style=flat-square&logo=mattermost&logoColor=white"/> |
 
 &nbsp;
+
+## 교육
+삼성 청년 소프트웨어 아카데미(SSAFY) 10기
+삼성전자에서 시행하는 교육 프로그램인 삼성 청년 소프트웨어 아카데미 수료
+성과 : 풀스택 과정 수료 및 프로젝트 경험 다수, 프로젝트 우수상 수상
+
+## 데이터 분석 전문가 통합과정
+케이티엠아이컨설팅이 주관한 데이터 분석 전문가 통합과정을 수료.
+성과: 미니탭과 R을 사용한 공정 분석 교육 수강 및 프로젝트 경험
+
+## 헬스케어 비즈니스 전문가 과정
+R 언어와 Python을 활용한 통계 분석, 플랫폼 구성, 컨텐츠 제작 등의 교육 수료.
+성과: 건강보험공단 데이터를 바탕으로 분석 결과 도출 및 우수팀 선정
+
 ## 알고리즘
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wnsrb933)](https://solved.ac/wnsrb933)
