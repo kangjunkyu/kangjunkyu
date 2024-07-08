@@ -31,7 +31,10 @@
 
 &nbsp;
 
-## 알고리즘 &nbsp;[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wnsrb933)](https://solved.ac/wnsrb933)
+## 알고리즘 &nbsp;
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsrb933)](https://solved.ac/wnsrb933/)
+
+<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wnsrb933)](https://solved.ac/wnsrb933) -->
 
 <!--
 **kangjunkyu/kangjunkyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
