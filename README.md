@@ -1,4 +1,3 @@
-## Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=venom&color=timeAuto&height=200&section=header&text=💡%20백엔드%20개발자%20강준규&fontSize=70&animation=twinkling&fontAlign=50)
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=%20속도보다는%20방향을&fontSize=30&animation=fadeIn&fontAlign=70)
@@ -11,9 +10,10 @@
 도전을 좋아합니다. 새로운 환경과 기술에도 두려움 없이 적응합니다.
 
 ### 함께하고 싶은 동료가 되고자 유연한 사고를 지닌 개발자를 목표로 두고 있습니다.
-- Web, Application, AI, Opensource 서비스의 Backend 설계, 개발, 운영 경험<br/>
-- AmazonWebServices(AWS)를 활용한 서비스 배포 및 사용자 유치 경험<br/>
-- 서비스 초기 기획부터 개발, 운영까지 참여한 프로젝트 경험<br/>
+
+// - Web, Application, AI, Opensource 서비스의 Backend 설계, 개발, 운영 경험<br/>
+// - AmazonWebServices(AWS)를 활용한 서비스 배포 및 사용자 유치 경험<br/>
+// - 서비스 초기 기획부터 개발, 운영까지 참여한 프로젝트 경험<br/>
 
 &nbsp;
 
